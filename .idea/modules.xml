@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\OK Computers\AndroidStudioProjects\ECommerce-App-Android-master\ECommerce-App-Android.iml" filepath="C:\Users\OK Computers\AndroidStudioProjects\ECommerce-App-Android-master\ECommerce-App-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECommerce-App-Android-master.iml" filepath="$PROJECT_DIR$/ECommerce-App-Android-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\OK Computers\AndroidStudioProjects\ECommerce-App-Android-master\app\app.iml" filepath="C:\Users\OK Computers\AndroidStudioProjects\ECommerce-App-Android-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
